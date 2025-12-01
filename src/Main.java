@@ -34,6 +34,7 @@ public class Main {
         System.out.println(orderD);
         System.out.println(orderE);
 
+
         System.out.println("Сравнение заказов:");
         System.out.println("orderA == orderB: " + orderA.equals(orderB));
         System.out.println("orderA == orderC: " + orderA.equals(orderC));
